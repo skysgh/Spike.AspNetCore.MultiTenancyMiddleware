@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spike.Host", "Spike.Host\Spike.Host.csproj", "{CDB754C0-2803-48DB-9BDB-2EDED29BDAD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB754C0-2803-48DB-9BDB-2EDED29BDAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB754C0-2803-48DB-9BDB-2EDED29BDAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB754C0-2803-48DB-9BDB-2EDED29BDAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB754C0-2803-48DB-9BDB-2EDED29BDAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40431D02-EEC9-4C16-BD09-4EF22F9FF4D1}
+	EndGlobalSection
+EndGlobal
